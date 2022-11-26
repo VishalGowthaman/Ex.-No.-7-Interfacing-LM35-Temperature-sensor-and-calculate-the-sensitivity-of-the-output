@@ -195,6 +195,11 @@ Figure -08 Circuit diagram of interfacing an LM35 with ADC input pin
 ## Kiel - Program
 
 ```
+Developed by: VISHAL GOWTHAMAN K R
+Register no: 212221230123
+```
+
+```
 #include<lpc214x.h>
 #include "LCD.h"
 #include "ADC.h"
