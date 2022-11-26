@@ -243,4 +243,4 @@ Figure -09 graph between temperature values and ADC output
 
 ## Result :
 
-Temperature sensor LM35 is interfaced to LPC2148 and its output is measured
+Temperature sensor LM35 is interfaced to LPC2148 and its output is measured.
